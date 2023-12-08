@@ -1,5 +1,5 @@
 # Токен телеграм бота
-TOKEN= '6871064266:AAGMehgcqgSaCtiWlmnEuAnuUJ5j5HLz7NA'
+TOKEN= 'BOT_TOKEN'
 # Словарь с наименованиями валют и их тикерами
 keys = {
     'Доллар_США' : 'USD',
